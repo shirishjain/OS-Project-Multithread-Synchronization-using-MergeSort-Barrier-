@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1523426726 source:e:\c++\os proj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+
+1523426726 source:c:\users\shirish\desktop\os\os project\os proj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+
